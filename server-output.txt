@@ -1,0 +1,7 @@
+◇ injected env (5) from .env // tip: ⌘ enable debugging { debug: true }
+✗ MongoDB connection failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+  Make sure MongoDB is running and MONGODB_URI is correct in .env
+Server is running on port 5000
+CORS enabled for: http://localhost:3000
+
+C:\projects2\root-health-server>

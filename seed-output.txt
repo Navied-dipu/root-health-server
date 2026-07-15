@@ -1,0 +1,8 @@
+◇ injected env (5) from .env // tip: ⌘ suppress logs { quiet: true }
+Connected to MongoDB
+Cleared existing collections
+Seed data inserted successfully:
+  - 4 doctors
+  - 5 patients
+  - 4 tests
+  - 3 patient tests
